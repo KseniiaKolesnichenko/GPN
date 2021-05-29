@@ -19,11 +19,11 @@
 | *DOI* | Digital Object Identifier - идентификатор цифрового объекта (также используется словосочетание цифровой идентификатор объекта, ЦИО) — стандарт обозначения представленной в сети информации  |
 | *Publication type* | тип публикации      |
 | *Country/Region* | страна,регион     |
-| *All Science Journal Classification (ASJC) code | классификация всех научных журналов Scopus. Коды, присваиваемые изданиям согласно ASJC (ASJC код), отражают соответствие журнала той или иной отрасли знания.   |
-| *All Science Journal Classification (ASJC) field name | классификация всех научных журналов Scopus    |
-| *Topic Cluster Prominence Percentile| указывает на динамику и популярность темы или тематического кластера, не является показателем качества   |
+| *All Science Journal Classification (ASJC) code* | классификация всех научных журналов Scopus. Коды, присваиваемые изданиям согласно ASJC (ASJC код), отражают соответствие журнала той или иной отрасли знания.   |
+| *All Science Journal Classification (ASJC) field name* | классификация всех научных журналов Scopus    |
+| *Topic Cluster Prominence Percentile*| указывает на динамику и популярность темы или тематического кластера, не является показателем качества   |
 | *Topic Cluster name* | распределение публикаций по темам и кластерам     |
-| *University | университет    |
+| *University* | университет    |
 
 
 ## Ссылки на классификаторы
