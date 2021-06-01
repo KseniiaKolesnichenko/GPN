@@ -1,0 +1,381 @@
+Topic;Topic Number;Moscow Institute of Physics and Technology;Novosibirsk State University;St. Petersburg State University;Tomsk Polytechnic University;I.M. Gubkin Russian State University of Oil and Gas;Peter the Great St. Petersburg Polytechnic University;St. Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO);Tyumen State University;Tyumen State Oil and Gas University;Ufa State Petroleum Technological University;Skolkovo Institute of Science and Technology
+"Western Siberia; Catagenesis; Jurassic";T.38138;0.009451715;0.064105335;0.00210566;0.171918643;0.070758495;0;0;0.026874763;0.083094897;0.011362988;0.101658654
+"Kimberlite; Xenolith; Cratons";T.653;0;0.417447343;0.028233194;0;0.007702339;0;0;0;0;0;0
+"Oil Recovery; Oil Well Flooding; Horizontal Wells";T.91864;0;0;0;0;0;0;0;0;0;0.633075267;0
+"Fold Belt; Terrane; Granitoid";T.7408;0;0.2405788;0.06880872;0.009156921;0;0;0;0;0;0;0
+"Nepa; Riphean; Catagenesis";T.58572;0;0.021981595;0.006131321;0.016556583;0.301801592;0;0;0;0.00306566;0.038155528;0.012906434
+"Arctic Ocean; Dmitri Mendeleev; Large Igneous Province";T.6092;0.01760856;0.065225906;0.123284263;0.008804859;0.012061712;0;0;0;0.012201599;0;0
+"Permafrost; Kara Sea; Talik";T.21902;0.021888789;0.020625101;0.036775867;0.092766273;0.040870171;0.015726715;0;0.062437503;0.024028548;0;0.05259759
+"Arctic Ocean; Chukchi Sea; Halocline";T.4424;0.016920915;0.036654924;0.038978622;0.107166054;0;0.064353277;0;0;0;0;0.004794054
+"Cratons; Riphean; Laurentia";T.19118;0;0.176420261;0.066790965;0.006664654;0.027466788;0;0;0;0;0;0
+"Magnetotails; Geomagnetic Tail; Current Sheets";T.246;0.033080723;0;0.128403616;0;0;0;0;0;0;0;0
+"Fracture Propagation; Hydraulic Fracturing; Horizontal Wells";T.1009;0.043753879;0.030975509;0;0.014742106;0.003322432;0.036701923;0;0;0.012196233;0.021648809;0.051398223
+"Gravity Gradiometers; Strapdown Inertial Navigation System; Airborne";T.26910;0.002567883;0.018645781;0;0;0;0.009437573;0.164230384;0;0;0;0
+"Gas Hydrates; Krishna; Methane";T.382;0.038745431;0.031049385;0;0.001714549;0.027494112;0;0;0.010727211;0;0.095532464;0.035261302
+"Magnetotellurics; Electromagnetic Method; Audio Frequencies";T.899;0.041814652;0.024944446;0.022453637;0;0;0;0;0.00178566;0.012907344;0;0.020833069
+"Lake Baikal; Siberia; Holocene";T.13803;0;0.078753744;0.02946608;0.005846876;0.002923438;0;0;0;0.01407147;0;0
+"Thermal Conductivity; Core Logging; Sandstones";T.23409;0.012130189;0;0;0;0.026900101;0;0.009931558;0.002958994;0.002958994;0;0.10565951
+"Meridional Circulation; Gulf Stream; North Atlantic";T.3933;0;0.045017798;0.087139055;0;0;0;0;0;0;0;0
+"Gehlenite; Fluorapatite; New Mineral";T.23219;0;0.077395232;0.094672962;0.005959803;0;0;0;0;0;0;0
+"Wave Equations; Finite Difference Scheme; Isotropic Media";T.8236;0.083760664;0.009991905;0;0;0;0;0;0;0;0;0.006068092
+"Western Siberia; Jurassic; Arctic Regions";T.59681;0;0.176233692;0;0.005447883;0;0;0;0;0.030225367;0;0
+"Carbonate Rocks; Flow in Porous Media; Microanalytical Model";T.5153;0.006071885;0.018300145;0;0.021486747;0.017613975;0.00178566;0;0.020338189;0.006411558;0.00178566;0.038586467
+"Lunar Dust; Magnetic Anomalies; Solar Wind";T.15788;0.074653494;0;0.024936813;0;0;0;0;0;0;0;0
+"Ice-Dammed Lake; Chuya Earthquake 2003; Tuva";T.40143;0;0.150370829;0.028598125;0.010789099;0;0;0;0;0;0;0
+"Diabase; Melt Inclusion; Magmatism";T.24090;0;0.094203735;0.018605673;0.019454219;0.004274549;0;0;0;0;0;0
+"Gold Deposits; P-Atom; Black Shale";T.31894;0;0.020572605;0;0.109423764;0;0;0;0;0;0;0
+"Full-Waveform; Subsalt Imaging; Wave Equations";T.1685;0.021156861;0.005143648;0.017730992;0;0.001714549;0;0;0;0.001714549;0;0.018297115
+"History Matching; Ensemble Kalman Filter; Reservoir Simulation";T.3769;0.015711728;0;0;0.033261547;0;0;0;0.001856771;0.006621828;0.001856771;0.022605183
+"Earth Core; Core-Mantle Boundary; Acoustic Wave Velocity";T.13376;0.015250649;0.045704882;0.004237255;0;0.006210016;0;0;0;0;0;0.010334046
+"Volcanoes; Magma; Volcanic Eruptions";T.16563;0;0.062800727;0.005747496;0.007645355;0;0;0;0;0;0;0.010389706
+"Ice Thickness; Cryosat; Arctic Ocean";T.752;0.014929208;0.008213531;0.028849015;0;0;0;0.005949038;0.011409755;0;0;0
+"Massifs; Exhumation; Kazakhstan";T.27261;0;0.124960019;0;0.012499557;0;0;0;0;0;0;0
+"Spectral Decomposition; Seismic Data; Salt Dome";T.6883;0.001821216;0.001821216;0;0.024585231;0.012127589;0;0;0;0.001821216;0;0.015278636
+"Gravity Anomalies; Magnetotellurics; Forward Modeling";T.8923;0.033644511;0;0.012560516;0.006032537;0;0;0;0;0.001998994;0;0.038570552
+"Induced Polarization; Electrical Resistivity; Metallic Mineral";T.9758;0.008976808;0.018460584;0.025145807;0;0.002070105;0;0;0;0.002070105;0.032867206;0
+"Earth-Ionosphere Waveguide; Extremely Low Frequencies; Lower Ionosphere";T.22164;0;0.009249147;0.063028304;0;0;0;0;0;0;0;0
+"Gravity Waves; Mesopause; Airglow";T.1376;0.016789308;0.009203257;0.046067905;0;0;0;0;0;0;0;0
+"Oil Recovery; Ultrasonic Processing; Microtremor";T.25927;0.005597987;0;0;0;0.011422424;0;0;0.006843458;0.017246861;0.023134542;0
+"Sulfidation; Lead Sulfide; Zinc Sulfide";T.46051;0;0.115652579;0;0.013566224;0;0;0;0;0;0;0
+"Tohoku Earthquake 2011; Tsunamis; Subduction Zone";T.800;0.009125754;0.026228967;0;0;0;0.004354271;0;0;0;0;0
+"Moment Tensor; Microseismic Monitoring; Full-Waveform";T.8560;0;0.025285561;0.012001381;0;0.014191269;0.001963438;0;0;0;0;0.003962432
+"Electron Precipitation; Energetic Particles; Atmospheric Ionization";T.15673;0;0;0.059029487;0.015293921;0;0;0;0;0;0;0
+"Magnetopause; Current Sheets; Electron Diffusion";T.2572;0;0;0.044332969;0;0;0;0;0;0;0;0
+"Phytane; Source Rock; Terpanes";T.7472;0;0.01445488;0.004353543;0.013096184;0.005372565;0;0;0;0;0;0
+"Geostatistics; Multiple Realization; Normal Equations";T.11211;0.031777073;0;0.049018849;0.00803153;0.001998994;0.026452021;0.001998994;0;0.005052565;0.019775262;0.031777073
+"Ice Shelf; Grounding Line; Cryosat";T.826;0;0.05964345;0.035968919;0;0;0;0;0;0;0;0
+"Lower Mantle; Pyrolite; Stishovite";T.2270;0.017943563;0.024279059;0.013074904;0;0;0;0;0;0;0;0.010484284
+"Plasma Bubbles; Spread F; Ionospherics";T.2806;0;0;0.033935679;0;0;0;0;0;0;0;0
+"Seismic Noise; Microtremor; Coda";T.4075;0.00178566;0.00178566;0.027499941;0.004842726;0;0;0;0;0;0;0.00178566
+"Atmospheric Electricity; Galactic Cosmic Rays; Forbush Decreases";T.6931;0;0;0.038990513;0.002638994;0;0.003658015;0;0;0;0;0
+"Acoustic Logging; Boreholes; Stoneley Wave";T.12357;0.032678648;0.002212327;0.004424654;0;0;0.002212327;0;0;0;0.007769228;0.017576498
+"Serpentine Asbestos; Cronstedtite; Lizardite";T.20795;0.004416771;0;0.020497702;0;0;0.015288358;0.046204748;0;0;0;0
+"Electrical Resistivity Tomography; Resistivity Imaging; Geoelectrics";T.2626;0;0.010209328;0.008928434;0.005531695;0.008963857;0;0;0;0;0;0
+"Seismic Attenuation; P Wave; Biot Theory";T.4849;0.020270274;0.020411503;0.001927883;0;0;0.003060129;0;0;0.007556623;0.004984948;0
+"Seismic Data; Diffraction; Prestack Migration";T.10396;0;0.031580368;0.024451869;0.002141216;0.015614948;0;0;0;0;0;0
+"Stress Waves; Fractured Medium; Seismic Anisotropy";T.10420;0.050180243;0;0.006850314;0;0;0.007038873;0;0;0;0;0.002283438
+"Self Potential; Electrokinetics; Electrical Resistivity Tomography";T.10487;0;0.002354549;0.022954595;0.005239666;0;0;0;0;0.002354549;0.002354549;0.002354549
+"Electromagnetic Survey; Massive Sulfide; Gas Hydrates";T.12314;0.012543608;0.02055823;0;0;0;0;0;0.033271433;0.002247883;0;0
+"Rift Zone; Geodynamics; Geological Faults";T.15069;0.008704453;0.01165616;0.00848587;0.002816771;0;0;0.002816771;0.002816771;0.016963873;0;0
+"Value of Information; Net Present Value; Hydrocarbon Reserve";T.24253;0;0.002390105;0;0.014691084;0.00720587;0;0;0.00720587;0.002390105;0.006025681;0
+"Induction Logging; Geoelectrics; Mud";T.51496;0;0.081242933;0;0;0;0;0;0.033831711;0.033831711;0;0
+"Hydrothermal Plume; Massive Sulfide; Mid-ocean Ridges";T.2469;0;0;0.035095002;0.002176771;0;0;0;0;0;0;0
+"Wadsleyite; Olivine; Lower Mantle";T.7837;0.017031639;0.032958291;0.006841421;0;0;0;0;0;0;0;0
+"Apatites; Pyromorphite; Hydroxyapatites";T.9837;0;0.020197408;0.016037674;0.002852327;0;0;0.009349554;0.029460117;0.029460117;0;0.012498132
+"Pegmatite; Granite; Immiscibility";T.22695;0;0.046126781;0.022854719;0.004807883;0;0;0;0;0;0;0
+"Serpentinization; Peridotite; Lizardite";T.23634;0;0.005327387;0.003515793;0.002496771;0.0373092;0;0;0;0;0;0
+"Russian Far East; Pacific Plate; Accretionary Prism";T.24166;0;0.036285625;0.005306687;0.029673983;0.004061216;0;0;0;0;0;0
+"Directional Drilling; Trenchless Technology; Pipe Linings";T.29648;0;0;0;0.018810013;0.005090886;0;0;0;0.020273487;0.003338015;0
+"Mid-ocean Ridges; Oceanic Crust; Ophiolite";T.725;0;0.013093121;0.02072362;0;0;0;0;0;0;0;0
+"Radiation Belts; Hiss; Whistler";T.972;0.013547774;0;0.006689875;0;0;0;0;0;0;0;0.026519804
+"Mantle Convection; Supercontinent; Lithosphere";T.2159;0;0.021895512;0;0;0;0;0.01202339;0;0;0;0
+"Isotropic Media; P Wave; Azimuth";T.2560;0.026199638;0.003891321;0.001927883;0.016194187;0.008986429;0;0;0;0.011137698;0.001927883;0
+"Ice Core; Firn; Antarctica";T.2611;0;0;0.049755183;0;0;0;0;0;0;0;0
+"Eikonal Equation; Fast Marching Method; Sweeping";T.13125;0.011441518;0.020492352;0.002496771;0;0;0;0;0;0.002496771;0;0.004993543
+"Lower Mantle; Siderites; Calcium Magnesium Carbonate";T.25666;0.024663579;0.047452586;0.003670105;0;0;0;0;0;0;0;0.032194683
+"Lithology; Geophysical Logging; Lithofacies";T.27782;0.007206599;0;0.002318994;0.037565524;0.002318994;0;0;0;0;0.011337186;0
+"Very Low Frequencies; Vertical Electrical Sounding; Magnetotellurics";T.33565;0;0;0.049472248;0;0;0;0;0;0;0;0
+"Thermosphere; Equatorial Electrojet; Ionospherics";T.1154;0.011651655;0;0.020614486;0;0;0;0;0;0;0;0
+"Precipitable Water; Zenith; GNSS";T.4867;0.001892327;0;0.031028685;0;0;0.001892327;0;0;0;0;0
+"Rotating Generators; Geodynamo; Rayleigh Number";T.4924;0;0;0.02500327;0;0;0;0.020009727;0;0.002496771;0;0
+"Rayleigh Waves; Dispersion Curves; Microtremor";T.6245;0;0.014640673;0.013507996;0;0.001998994;0;0;0;0;0;0
+"Ground Penetrating Radar; Geophysical Survey; Archaeological Prospection";T.12406;0;0.010140685;0.005052565;0;0.008102642;0.002034549;0.002034549;0;0;0;0
+"Blowouts; Hypolimnion; Aerators";T.15382;0;0;0;0.020316031;0.027108631;0;0;0;0.00242566;0.014267183;0.00242566
+"Vibroseis; Source Separation; Seismic Data";T.18347;0;0;0.017556394;0;0.009545266;0;0;0;0;0;0
+"Gold Deposits; Ores; Arsenopyrite";T.32489;0;0.060513448;0;0;0;0;0;0;0;0;0
+"Seismic; Geophysical Logging; Western Siberia";T.47311;0;0;0;0.049314377;0;0;0;0.00562566;0.011781888;0;0
+"Sprite; Thunderstorms; Elves";T.5744;0.022933612;0;0.011088298;0.005495842;0;0;0;0;0;0;0
+"Polar Mesospheric Cloud; Mesosphere; Aeronomy";T.8189;0.018589377;0.008515596;0.006704002;0.003030105;0;0;0.005521047;0;0;0;0
+"Fault Scarp; Cenozoic; Fold and Thrust Belt";T.15461;0;0.035203524;0.014967363;0;0;0;0;0;0;0;0
+"Geomagnetic Field; Secular Variations; CHAMP";T.3956;0;0.014260194;0.010961957;0;0;0;0;0;0;0;0
+"Fault Gouge; Pseudotachylite; Cataclasite";T.4296;0.015478423;0.005133728;0;0.01543717;0;0.008870141;0;0;0;0;0.001963438
+"Dayglow; Mesosphere; Airglow";T.19196;0;0.047925061;0.034662259;0;0;0;0;0;0;0;0
+"Source Rock; Jurassic; Cretaceous";T.66869;0.017525709;0.030486876;0;0.093081329;0;0;0;0;0;0;0
+"Perfectly Matched Layers; Absorbing Boundary Conditions; Artificial Boundary";T.4641;0.023350955;0.014954545;0;0;0;0;0;0;0;0;0
+"Fault Zone; Sandstones; Footwall";T.6763;0;0.003962432;0;0.008982935;0.02494804;0;0;0;0.00464178;0;0.02494804
+"Siderophile Elements; Peridotite; Platinum Group Element";T.6766;0.015948064;0.016036961;0.018726514;0;0;0;0;0;0;0;0
+"Platinum Group Element; Chromitite; Layered Intrusion";T.8995;0;0.024014554;0.015527807;0.022614473;0;0;0;0;0;0;0
+"Ring Currents; Magnetic Storms; Magnetospheres";T.9844;0;0;0.048347022;0;0;0;0;0;0;0;0
+"Thundercloud; Lightning; Hydrometeors";T.21247;0.022200045;0;0;0.00664397;0;0;0;0;0;0;0
+"Caucasus; Arabian Plate; Armenia";T.21637;0;0.022713837;0.020120749;0;0.00338566;0;0;0;0;0;0
+"Volcanology; Volcanic Eruptions; Unrest";T.25155;0;0;0.064962227;0;0;0;0.040734755;0;0;0;0
+"Reservoir Characterization; Multi-Attribute; Seismic Data";T.35115;0;0;0;0.007731321;0.037573491;0;0;0;0;0;0
+"Water-Rock Interaction; Granite; Host Rock";T.39940;0;0.0125424;0.045692746;0.025084799;0;0;0;0;0;0;0
+"Perth; Western Australia; Compressed Gas";T.64720;0;0;0;0;0.084211998;0;0;0;0;0;0
+"Cloud to Ground Lightning; Lightning; Thunderstorms";T.919;0.009905342;0;0.003677987;0.005534759;0;0;0;0;0;0;0
+"Ambiguity Resolution; Attitude Determination; GNSS";T.3445;0.001856771;0;0;0;0;0.036131345;0.01719996;0;0;0;0
+"Mars Atmosphere; Ionospheres; Mars";T.3690;0.021281148;0;0.0133149;0;0;0;0;0;0;0;0
+"Field Aligned Currents; Polar Caps; Magnetosphere-Ionosphere Coupling";T.4136;0;0;0.019752243;0;0;0;0;0;0;0;0
+"Ground Penetrating Radar; Full-Waveform; Radar Data";T.4915;0.001963438;0.005246953;0.001963438;0.001963438;0.001963438;0;0;0;0.006226925;0;0
+"Iron Meteorites; Ureilites; Kamacite";T.8020;0;0.019717831;0.014008374;0;0;0;0;0;0;0;0
+"Porphyry; Silicate Melt; Magma";T.9364;0;0.012181494;0.011826369;0.002176771;0;0;0;0;0;0;0
+"Oceanic Crust; Bay of Bengal; Spreading Center";T.11411;0;0;0.025435601;0;0;0;0;0;0;0;0
+"Mesoscale Eddy; Drifter; Rossby Number";T.12996;0;0;0.015739997;0;0;0;0;0;0;0;0
+"Arrival Time; P Wave; Seismic";T.13257;0.008044348;0.014812323;0.003386687;0;0;0;0.002141216;0;0;0;0
+"Monazite; Xenotime; Rhabdophane";T.15029;0;0.010366538;0.018843813;0;0;0;0;0;0;0;0.002710105
+"Hydrocarbon Seepage; Soil Gas; Hyperspectral Remote Sensing";T.17897;0;0;0;0.014536458;0;0;0;0;0.009552537;0;0
+"Hydrocarbon Resource; Natural Gas Resources; Oil Reserves";T.22810;0;0.018077174;0;0.002994549;0.002994549;0.027084437;0;0;0;0;0
+"Astrobleme; Kimberlite; Moissanite";T.34124;0.018126989;0.055100013;0;0;0;0;0;0;0;0;0
+"Solar Tide; Radon; Earthquakes";T.36168;0.012427005;0.007517987;0;0.003776771;0;0;0;0;0.003776771;0;0
+"Black Sea; Crimea; Albian";T.36443;0;0;0.031154646;0;0.020025858;0;0;0;0;0;0
+"Core-Mantle Boundary; Batholiths; Mantle Plume";T.57408;0;0.178529212;0;0;0;0;0;0;0;0;0
+"Total Electron Content; Ionospherics; Ionosondes";T.2075;0.011454932;0;0.0115874;0;0;0;0;0;0;0;0
+"Sicily; Volcanoes; Aeolian Islands";T.6125;0;0.018856929;0;0;0;0;0.007578036;0;0;0;0
+"MESSENGER (Spacecraft); Mercury Surface; Exosphere";T.7613;0.004243813;0;0.023636558;0.018373724;0;0;0;0;0;0;0
+"Thermochronology; Closure Temperature; Exhumation";T.10529;0;0.010202605;0.018685279;0;0;0;0;0;0;0;0
+"Solar Activity; Ionospherics; Columbus Module";T.15062;0;0;0.00845934;0;0;0.025939341;0;0;0;0;0
+"Polar Caps; Ionospherics; Magnetic Storms";T.20215;0;0;0.020603226;0;0;0;0;0;0;0;0
+"Pyrope; Grossular; Garnets";T.22253;0;0.007870777;0.003634549;0.013532009;0;0;0;0;0;0;0.007144513
+"Pingo; Palsa; Permafrost";T.22937;0;0;0.021196442;0.012975938;0;0;0;0;0.015490314;0;0
+"Thermosphere; Molecular Relaxation; Mixing Ratios";T.23325;0;0;0.062037851;0;0;0;0;0;0;0;0
+"Ionospheres; Plasma Clouds; Upper Atmosphere";T.25611;0.031558543;0;0;0;0;0.014049163;0;0;0;0;0
+"Geodynamics; Sine-Gordon Equation; Parametric Excitation";T.38467;0;0.032688322;0;0;0;0;0;0;0;0;0
+"Permeability; Filtration; Oil Fields";T.66679;0;0;0;0.019350105;0.077740093;0;0;0.046965608;0;0;0
+"Petroleum Chemistry; Enhanced Oil Recovery; Oil Fields";T.79471;0;0;0;0.019685173;0;0.044982923;0;0;0;0.005483438;0
+"Paleointensity; Geomagnetic Field; Brunhes Chron";T.827;0;0.006032967;0.029864212;0;0;0;0;0;0;0;0
+"Magnetotellurics; Asthenosphere; Olivine";T.3887;0.00446021;0.007177601;0;0.002247883;0;0;0;0;0;0;0
+"Reservoir Characterization; Seismic Data; Inversions";T.4521;0;0;0;0;0.007320419;0;0;0;0.001821216;0;0
+"Magma; Lava Dome; Volcanoes";T.5254;0;0.023562251;0;0;0;0;0;0;0;0;0
+"Tektites; Moldavite; Libyan Desert";T.9831;0.00370566;0;0.016216893;0;0.005630479;0;0;0;0;0;0
+"3D Modeling; Geological Structure; Geologic Models";T.10124;0;0;0;0.012819887;0.002176771;0;0;0;0.004317987;0;0.002176771
+"Magnetosheath; Magnetic Scales; Solar Wind";T.12270;0;0;0.021066176;0;0;0;0;0;0;0;0
+"Induction Logging; Horizontal Wells; Electrical Resistivity";T.12339;0;0.016555142;0;0;0.002176771;0;0;0;0;0;0
+"Zircon; Shock Metamorphism; Impact Melts";T.12738;0.006637412;0.006637412;0.012665858;0.004939042;0;0;0;0;0;0;0
+"Total Least Squares; Errors-in-variables Model; Coordinate Transformations";T.24211;0;0.013427976;0;0;0;0;0;0;0;0;0
+"Mud Volcano; Mudflow; Sakhalin";T.24824;0;0.009172504;0.004473028;0.024174114;0.013983897;0;0;0;0;0;0
+"Interplanetary Shock Waves; Magnetopause; Field Aligned Currents";T.25773;0;0;0.035820705;0;0;0;0;0;0;0;0
+"Morse Index; Anisotropic Media; Wave Field";T.32441;0;0;0.038149437;0;0;0;0;0;0;0;0
+"Pressure Pulses; Shales; Gas Permeability";T.36464;0;0;0;0.027220085;0;0;0;0;0;0;0.007944654
+"Hydraulic Head; Groundwater Flow; Stagnation Point";T.38409;0;0;0.007441047;0;0.004950105;0;0;0;0.00990021;0.004950105;0
+"Sakhalin; Earthquakes; Fault Zone";T.46932;0;0.020635222;0.011393245;0;0.024371635;0;0;0;0;0;0
+"Xenolith; Orthopyroxene; Peridotite";T.52732;0;0.094331007;0;0;0;0;0;0;0;0;0
+"Inverse Problems; Coal Seam; Poroelasticity";T.56096;0;0.066231768;0;0;0;0;0;0;0;0;0
+"Seismic Anisotropy; Wave Splitting; Upper Mantle";T.3132;0;0.02972242;0.02485376;0.002141216;0;0;0;0;0;0;0
+"Solar Cycles; Radiometers; Maunder Minimum";T.5546;0;0;0.005411614;0.008183507;0;0;0;0.002354549;0;0;0
+"Polar Motion; Chandler Wobble; Nutation";T.5568;0;0;0.011762098;0;0;0;0.002816771;0;0;0;0
+"Gravimeters; Polar Motion; Tidal Constituent";T.5748;0.002318994;0;0;0;0;0;0.009674372;0;0;0;0
+"Gorkha Earthquake 2015; Himalayan Region; Aftershock";T.5839;0.003852701;0.016310475;0.001927883;0;0;0;0;0;0;0;0
+"Infrasound; Volcanoes; Volcanic Eruptions";T.7529;0.021758076;0.018095109;0;0;0;0;0;0;0;0;0
+"Barents Sea; Svalbard and Jan Mayen; Triassic";T.8694;0;0;0.006455113;0;0.006341888;0;0;0;0;0;0
+"Volcanoes; Degassing; Volcanic Eruptions";T.8839;0.00242566;0.005143052;0.00242566;0.006162073;0;0;0;0;0;0;0
+"Pore Pressure; Hyperbarism; Hydrocarbon Generation";T.9362;0.00210566;0;0;0.004211321;0.00210566;0;0;0;0;0;0
+"Submarine Landslide; Tsunamis; Debris Flow";T.10540;0.006316981;0;0;0;0;0.003464356;0;0;0;0;0
+"Leucosome; Migmatite; Granulite Facies";T.10940;0;0.01412087;0.002958994;0;0;0;0;0;0;0;0
+"Carbonate Rocks; Wave Velocity; Reservoir Characterization";T.13393;0;0;0;0;0.008564864;0;0;0;0;0;0
+"Cold Seep; Mud Volcano; Gas Hydrates";T.13752;0;0;0.005320829;0.00784587;0;0;0;0;0;0;0
+"Continental Margin; Grainstone; Geological Faults";T.14499;0;0;0.017448982;0.002390105;0;0;0;0;0.002390105;0;0.002390105
+"Formation Water; Sandstones; Cementation";T.16885;0;0;0;0.002603438;0.005242432;0;0;0;0.008151445;0;0
+"D Region; Lower Ionosphere; Very Low Frequencies";T.21223;0.003030105;0;0.049999964;0;0;0;0;0;0;0;0
+"Paleostress; Fault Slips; Stress Tensors";T.22211;0.010903366;0;0.003883438;0.003883438;0;0.003883438;0;0;0;0;0
+"In Situ Stress; Sands; Oil and Gas Fields";T.23011;0;0;0.00274566;0;0;0.010897834;0;0.00274566;0.005491321;0;0
+"Seismic Reflection; Geophone; Esker";T.27290;0;0;0.01745655;0.003350105;0.003350105;0;0;0;0;0;0
+"Volcanoes; Spurr Resin; Alaska";T.36630;0;0.057980129;0;0;0;0;0;0;0;0;0
+"Coiled Tubing; Fatigue Testing; Perforating";T.43765;0;0;0;0.030785278;0.003883438;0;0;0;0;0;0
+"Satellite Laser Ranging; Photon Counting; Lunar Reconnaissance Orbiter";T.43939;0;0.004807883;0;0;0;0;0.019518756;0;0;0;0
+"Kimberlite; Induced Polarization; Electromagnetic Survey";T.51490;0;0.024168221;0;0;0;0;0;0;0;0;0
+"Aftershock; Earthquake Catalogue; Seismicity";T.1611;0;0;0.058051747;0;0;0;0;0;0;0;0.008653314
+"Eurasian Plate; Ryukyu; Arc-Continent Collision";T.2859;0;0.011537404;0;0;0;0;0;0;0;0;0
+"Monzonite; Diorite; Petrogenesis";T.3606;0;0.001856771;0;0;0.005900367;0;0;0;0;0;0
+"Helmholtz Decomposition; Reaction Time; Wave Equations";T.3719;0.110839932;0.011432194;0;0;0;0;0;0;0;0;0
+"African Rift System; Geological Faults; Afar";T.3806;0;0.010318893;0.024786143;0;0;0;0;0;0;0;0
+"Magnetic Clouds; Coronal Mass Ejection; Solar Wind";T.4916;0;0;0.018499336;0;0;0;0;0;0;0;0
+"Dead Sea; Messinian; Gulf of Aqaba";T.5477;0;0.012579594;0.005667061;0;0;0;0;0;0;0;0
+"Magnetic Storms; Ionospherics; Total Electron Content";T.6060;0;0;0.010020604;0;0;0;0;0;0;0;0
+"Upper Mantle; Crustal Thickness; Asthenosphere";T.6328;0.003422243;0.006139634;0.002176771;0;0;0;0;0;0;0;0
+"Foreshock; Magnetosheath; Interplanetary Shock Waves";T.7900;0.00274566;0;0.027202182;0;0;0.019276457;0;0;0;0;0
+"Ionospheric Heating; Sura; F Region";T.8093;0.016714404;0;0.007543209;0;0;0;0.002674549;0;0;0;0
+"Induced Seismicity; Fluid Injection; Hydraulic Fracturing";T.9231;0.015433974;0;0;0;0;0;0;0;0;0;0
+"Graben; North Sea; Jurassic";T.10837;0;0;0;0;0.002994549;0;0;0;0;0;0.0149694
+"Radon; Soil Gas; Earthquake Precursor";T.11700;0;0;0;0.008978845;0;0;0;0;0.007811771;0;0
+"Magma; Enclaves; Pluton";T.14694;0;0.013647271;0;0;0;0;0;0;0;0;0
+"Fluid Inclusion; Hydrocarbon Generation; Petrography";T.15394;0;0;0;0.011269554;0;0;0;0;0;0;0
+"Normal Fault; Suez; Hanging Wall";T.15468;0;0.015659827;0.002638994;0.002638994;0;0;0;0;0;0;0
+"Indian Plate; Muji; Hindu";T.15567;0;0.028516281;0.035039159;0;0;0;0;0;0;0;0
+"Environmental Engineering; Stratosphere; Aerosols";T.16676;0;0;0;0;0;0.007352613;0.002034549;0;0;0;0
+"Variogram; Indicator Kriging; Geostatistics";T.17278;0;0;0.016030536;0;0;0.016468281;0;0;0;0;0
+"Magma; Partition Coefficients; Silicate Melt";T.17900;0;0;0.0168818;0;0;0;0;0;0;0;0
+"Blind Deconvolution; Seismic Data; Wavelets";T.19223;0;0;0.002958994;0.009392396;0;0;0;0;0;0;0
+"Shales; Kerogen; Bedding Plane";T.24036;0;0;0;0;0.002034549;0;0;0;0;0;0.026147903
+"Gaussian Beams; Seismic Migration; Rays";T.24562;0;0.013462935;0;0;0;0;0;0;0;0;0
+"Transform Faults; Peridotite; Mid-Ocean Ridge Basalt";T.30008;0;0.039992911;0;0;0;0;0;0;0;0;0
+"Radioelement; Gamma Spectrometry; Radiation Monitoring";T.30222;0;0;0.003101216;0.006995004;0;0;0;0;0;0;0
+"Subduction Zone; Orthopyroxene; Solidus";T.30572;0.003563438;0.021393181;0;0;0;0;0;0;0;0;0
+"Outcrops; Earth Sciences; Terrestrial Laser Scanning";T.36045;0;0;0;0;0.076688189;0;0;0;0;0;0
+"Planetary Waves; Run; Tsunamis";T.40971;0.005838994;0.015336731;0;0;0;0;0;0;0;0;0
+"Marine Isotope Stage; Diatoms; Impact Structure";T.41920;0;0;0.057772259;0;0;0;0;0;0;0;0
+"Abandoned Wells; Geothermal Energy; Williston Basin (North America)";T.51975;0;0;0;0;0;0;0;0;0;0.027598793;0
+"Laser Drilling; Reservoir Rock; Specific Energy";T.57436;0;0;0;0.021621071;0.007581216;0;0;0;0.007581216;0;0
+"Earth Orbital Rendezvous; History Matching; Seismic Monitoring";T.71315;0;0;0.007794549;0;0.028758712;0;0;0;0;0;0
+"Cosmic Dust; Microprobe; Grain Size and Shape";T.74335;0;0.047402311;0.026549549;0;0;0;0;0;0;0;0
+"Ground Motion; Seismic Hazard; Site Effect";T.813;0.028826973;0;0;0;0;0;0;0;0;0;0
+"Jupiter; Magnetospheres; Saturn";T.2092;0.008662637;0;0;0;0;0;0;0;0;0;0
+"Fracture Network; Solute Transport; Crystalline Rocks";T.2902;0.001856771;0;0.004574163;0;0;0;0;0;0;0;0
+"Ionospherics; Total Electron Content; Earthquake Precursor";T.3874;0;0;0.010594014;0;0;0;0.002070105;0;0;0;0
+"Antarctica; Mcmurdo Sound; Crustal Thickness";T.4623;0;0;0.043662879;0;0;0;0;0;0;0;0
+"Magnetopause; Flux Transfer Events; Auroras";T.5445;0.003812327;0;0.019210878;0;0;0;0;0;0;0;0
+"Orbit Determination; GLONASS; Ambiguity Resolution";T.5829;0;0;0;0;0;0.010973036;0;0;0;0;0
+"Traveling Ionospheric Disturbances; Total Electron Content; Ionospheres";T.6452;0;0;0.004353543;0;0;0;0;0;0;0;0
+"Inner Core; Core-Mantle Boundary; Geodynamo";T.7503;0.017684755;0;0.002852327;0;0;0;0;0;0;0;0
+"Grainstone; Sequence Stratigraphy; Jurassic";T.9103;0;0;0;0;0;0;0;0;0.004069099;0;0
+"Yukon Territory; Terrane; Continental Arc";T.9144;0;0.014979437;0;0;0;0;0;0;0;0;0
+"Latent Heat Flux; Albedo; Regional Climate";T.10055;0;0.018228736;0;0;0;0;0;0;0;0;0
+"Ordinary Chondrite; Meteoroids; Kamacite";T.10093;0;0.00749934;0;0;0;0;0;0;0;0;0
+"Halites; Gas Storage; Caves";T.11028;0.002141216;0;0;0;0;0.002141216;0;0;0;0;0
+"Subduction Zone; Tremors; San Andreas Fault";T.11466;0;0.031395286;0;0;0;0;0;0;0;0;0.016676083
+"Plasmapause; Whistlers; Magnetopause";T.12924;0.008655765;0;0;0;0;0;0;0;0;0;0
+"Meridional Circulation; Western Boundary Current; Mesoscale Eddy";T.13519;0;0;0.006732999;0;0;0;0;0;0;0;0
+"Remanent Magnetization; Titanomagnetite; Paleointensity";T.13995;0;0;0.009222915;0;0;0;0;0;0;0;0
+"Stratosphere; Volcanic Aerosol; CALIOP";T.14324;0;0;0;0.015673954;0;0;0;0;0;0;0
+"Gyrofrequency; Magnetospheres; Wave-particle Interactions";T.14518;0.003101216;0;0.009441796;0;0;0;0;0;0;0;0
+"Lapse; Seismic Data; Seafloor";T.14744;0;0;0;0.002141216;0;0;0;0;0.10404339;0;0
+"Quasi-Biennial Oscillation; Stratosphere; Zonal Wind";T.15483;0.003563438;0;0.014206554;0;0;0;0;0;0;0;0
+"Enhanced Geothermal System; Hot Dry Rock; Fracture Aperture";T.15627;0;0;0;0;0.011014851;0.021091844;0;0;0;0;0
+"Falkland Islands (Malvinas); Karoo; Sea Lions";T.18564;0;0;0.019991345;0;0;0;0;0;0;0;0
+"Microtremor; Site Effect; Ambient Noise";T.18808;0;0.009529815;0;0;0;0;0.011794308;0;0;0;0
+"Apparent Polar Wander Path; Paleomagnetism; Laurentia";T.19139;0;0;0.019147734;0;0;0;0;0;0;0;0
+"Libya; Ordovician; Hirnantian";T.19470;0;0;0.009664453;0;0.003776771;0;0;0;0;0;0
+"Spinell; Hercynite; Closure Temperature";T.21408;0;0.008534972;0.015894573;0;0;0;0;0;0;0;0
+"Climate Feedback; Radiative Forcing; CMIP";T.21889;0;0;0.004673543;0;0;0;0;0;0;0;0
+"Earth Sciences; Document Markup Languages; Search Engines";T.22471;0;0;0.006042291;0.002532327;0;0;0;0;0;0;0
+"Stylolite; Pressure Solution; Fracture Aperture";T.22964;0;0;0;0;0.003563438;0;0;0;0;0;0.003563438
+"Geothermal Fields; Resource Assessment; Geysers";T.24051;0;0;0.003918994;0;0;0;0;0;0;0.003918994;0
+"Enstatite; Meteoroids; Chladnite";T.25357;0;0.030952492;0;0;0;0;0;0;0;0;0
+"Sedimentology; Seismic; Geophysical Logging";T.25378;0;0;0;0;0.003136771;0;0;0;0.003136771;0;0
+"Crack Growth; Confining Pressure; Stress Intensity Factors";T.28409;0;0;0.014025995;0;0;0;0;0;0;0;0
+"Geothermal Power Plants; Rankine Cycle; Noncondensable Gases";T.29254;0;0;0;0.008784159;0;0;0;0;0;0;0
+"Microanalytical Model; Immiscible Displacement; Fingering";T.30661;0.011895427;0;0;0;0;0;0;0;0;0;0
+"Seismic Monitoring; Lapse; Vertical Seismic Profile";T.30873;0;0;0;0;0;0;0;0;0;0;0.011472553
+"Solid Earth; Subduction (Geology); Feldspars";T.31047;0;0.006123438;0.008954054;0;0;0;0;0;0;0;0
+"Greigite; Magnetic Mineral; Ferrous Sulfide";T.31176;0;0.015246989;0;0.005056771;0;0;0;0;0;0;0
+"Melt Inclusion; Olivine; Plagioclase";T.32518;0;0.040132698;0;0;0;0;0;0;0;0;0
+"Sounding; Geophysical Method; Nuclear Magnetic Resonance Spectroscopy";T.33371;0;0.006910777;0;0.003172327;0;0;0;0;0;0;0
+"Algeria; Seismic Hazard; Earthquakes";T.33450;0;0.011567842;0;0;0;0;0;0;0;0;0
+"Gulf of California (Mexico); Calderas; Hydrothermal Systems";T.35796;0;0.020860262;0;0;0;0;0;0;0.008292327;0;0
+"Meteorite Collisions; Meteoroids; Craters";T.38481;0;0;0.011486083;0;0.007296771;0;0;0;0;0;0
+"Seismic Response; Synthetic Seismogram; Attribute Analysis";T.40664;0;0;0;0.016788978;0;0;0;0;0;0;0
+"Olivine; Clinopyroxene; Volcanology";T.41039;0;0.029865753;0;0;0;0;0;0;0;0;0
+"Beryllium Minerals; Greisen; Paragenesis";T.44346;0;0.016398994;0.016398994;0;0;0;0;0;0;0;0
+"History Matching; Petrophysics; Reservoir Simulation";T.46724;0;0;0;0.006514549;0;0;0;0;0;0.006514549;0
+"Permafrost; Frozen Ground; Magnetotellurics";T.47407;0;0;0.015261216;0;0;0;0.023639839;0;0;0;0
+"Spherical Waves; Recording Instruments; Pulse Amplifiers";T.51034;0;0.011172327;0.011172327;0;0;0;0;0;0;0;0
+"Hydrocarbon Reserve; Oil and Gas Fields; Turonian";T.53372;0;0;0;0;0;0;0;0;0;0.071543084;0
+"Magma; Mantle Source; Vietnam";T.55836;0;0.043115971;0;0;0;0;0;0;0;0;0
+"Ionospherics; Order Effects; GNSS";T.60299;0;0;0.02477207;0;0;0;0;0;0;0;0
+"Rock Property; Hydraulic Fracturing; Proppants";T.67281;0;0;0;0.00594566;0;0;0;0;0;0.00594566;0
+"Sounding; Induced Polarization; Magnetotellurics";T.73110;0;0.022897263;0;0;0;0;0;0;0;0;0
+"Benzothiophene; Asphaltenes; Petroleum Products";T.78242;0;0;0;0.046019437;0;0;0;0;0;0;0
+"Distillation; Natural Gas; Refinery";T.91949;0;0;0;0;0;0;0;0;0;0.065246381;0
+"Indian Plate; Crustal Structure; Wenchuan Earthquake";T.935;0;0.004991506;0;0;0;0;0;0;0;0;0
+"Chondrule; Meteoroids; Parent Body";T.1573;0;0;0.002247883;0;0;0;0;0;0;0;0
+"Geopotential; GOCE; Gravity Field";T.1615;0;0;0.036306059;0;0;0;0;0;0;0;0
+"Normal Fault; Seismotectonics; Central Italy";T.1681;0;0.00514961;0;0;0;0;0;0;0;0;0
+"Mid-Ocean Ridge Basalt; Mantle Source; Pyroxenite";T.3275;0;0.008708245;0;0;0;0;0;0;0;0;0
+"Central Andes; Northern Chile; Cordillera";T.3501;0;0.007378547;0;0;0;0;0;0;0;0;0
+"Earthquake Rupture; Ground Motion; Source Parameters";T.3829;0;0;0;0.026413402;0;0;0;0;0;0;0.026413402
+"Mylonite; Shear Zone; Dislocation Creep";T.4405;0;0;0;0.002461216;0;0;0;0;0;0;0
+"GRACE; Gravity Field; Water Storage";T.4606;0;0;0.009407267;0;0;0;0;0;0;0;0
+"Aeromagnetic Survey; Magnetic Anomalies; Analytic Signal";T.4984;0;0.001998994;0;0;0;0;0;0;0;0;0
+"San Andreas Fault; Slip Rate; Earthquake Rupture";T.5966;0;0;0.026173837;0;0;0;0;0;0;0;0
+"SH Wave; Ground Motion; Seismic Response";T.6029;0;0;0;0;0;0;0;0;0;0.002141216;0
+"Volcanic Belt; Chalco; Lahar";T.6093;0;0.007329875;0;0;0;0;0;0;0;0;0
+"DORIS; Satellite Laser Ranging; GNSS";T.6998;0;0;0.013059453;0;0;0;0;0;0;0;0
+"Ischium; Calderas; Campanian";T.7039;0;0;0.007676107;0;0;0;0;0;0;0;0
+"Agrotis; Antarctica; Deception";T.8099;0;0;0.01124304;0;0;0;0;0;0;0;0
+"Seismic Data; Random Noise; Projection Onto Convex Sets";T.8179;0;0.019895044;0;0;0;0;0;0;0;0;0
+"Faroe; Shetland; Continental Breakup";T.8469;0;0;0;0;0;0;0;0;0;0;0.002887883
+"Anticlines; Detachment Fold; Reverse Fault";T.8862;0;0;0.003243438;0;0;0;0;0;0;0;0
+"Sporadic E Layer; E Region; Ionospherics";T.9012;0;0;0.007908088;0;0;0;0;0;0;0;0
+"Hispaniola; North American Plate; Dominican Republic";T.9033;0;0;0;0.00338566;0;0;0;0;0;0;0
+"North Anatolian Fault; Marmara Sea; Fault Zone";T.9295;0;0.007245648;0;0;0;0;0;0;0;0;0
+"Uranium Deposits; Unconformity; Nunavut";T.9757;0;0;0.003314549;0;0;0;0;0;0;0;0
+"Mars; Crustal Thickness; Mars Volcanoes";T.10065;0.028612315;0;0;0;0;0;0;0;0;0;0
+"Cryosat; Altimeters; Satellite Altimetry";T.11738;0;0;0.008355455;0;0;0;0;0;0;0;0
+"Pyroxenes; Enstatite; Diopside";T.11859;0;0;0;0;0;0;0;0;0;0;0.006736494
+"Layered Intrusion; Immiscibility; Gabbro";T.12209;0;0;0.004594549;0;0;0;0;0;0;0;0
+"Oceanic Lithosphere; Seamounts; Crustal Thickness";T.12450;0;0.009153559;0;0;0;0;0;0;0;0;0
+"Phlogopite; Biotite; Muscovite";T.13106;0;0.008643378;0;0;0;0;0;0;0;0;0
+"Venus; Magellan Ultraviolet Astronomy Satellite; Venus Surface";T.13254;0;0.006949827;0;0;0;0;0;0;0;0;0
+"Rifting; Ocean-Continent Transition; Continental Crust";T.13316;0;0;0.009250902;0;0;0;0;0;0;0;0
+"Seismic Attenuation; Q Factor; Fractional Laplacian";T.13618;0;0.002141216;0;0;0;0;0;0;0;0;0
+"Venezuela; Trinidad and Tobago; Paria";T.13980;0;0;0;0.00466566;0;0;0;0;0;0;0
+"Koro; Subduction Zone; Miocene";T.14212;0;0;0;0;0.019849139;0;0;0;0;0;0
+"Thermosphere; Atmospheric Density; Magnetic Storms";T.14368;0;0;0;0;0;0;0;0;0;0;0.002496771
+"Ionospherics; Polar Caps; Magnetotails";T.14944;0.019715214;0;0;0;0;0;0;0;0;0;0
+"Xenolith; Orthopyroxene; Peridotite";T.14968;0;0;0.006849718;0;0;0;0;0;0;0;0
+"Gold Deposits; Cratons; Archean";T.14972;0;0;0;0;0;0;0.017156953;0;0;0;0
+"Dead Sea; Sinkholes; Jordan River";T.15555;0;0.009794585;0;0;0;0;0;0;0;0;0
+"Infrasound; Stratosphere; Bolides";T.15659;0.002603438;0;0;0;0;0;0;0;0;0;0
+"Subduction Zone; Lower Mantle; Earthquakes";T.15913;0.003634549;0;0;0;0;0;0;0;0;0;0
+"Sporadic E Layer; Mesopause; Thermosphere";T.17290;0;0;0;0.006196602;0;0;0;0;0;0;0
+"Garnets; Porphyroblast; Staurolite";T.17291;0;0;0.003421216;0;0;0;0;0;0;0;0
+"Microseisms; Seismographs; Seismic Noise";T.17385;0;0;0.008306784;0;0;0;0;0;0;0;0
+"Antarctic Bottom Water; Polynyas; Basal Melting";T.17394;0;0.002994549;0;0;0;0;0;0;0;0;0
+"Cosmogenic Radionuclide; Meteoroids; Aluminum 26";T.18694;0;0;0;0;0;0.007794549;0;0;0;0;0
+"Volcanic Eruptions; IASI; Volcanology";T.18890;0;0;0;0;0;0;0.002710105;0;0;0;0
+"Geodetic Network; Geodesy; Outlier Detection";T.20406;0;0;0;0.004359803;0;0;0;0;0;0;0
+"In Situ Stress; Overcoring; Stress Measurement";T.20437;0;0;0;0;0;0.013757448;0;0;0;0;0
+"New Caledonia; Vanuatu; Obduction";T.20515;0;0.00434566;0;0;0;0;0;0;0;0;0
+"Gulf of Mexico; Gelsemium; Source Rock";T.20705;0;0;0;0;0.003741216;0;0;0;0;0;0
+"Moho; Crusts; Cratons";T.21213;0;0.012282134;0;0;0;0;0;0;0;0;0
+"Seismic Data; Refracted Waves; Refraction";T.23008;0;0;0;0;0.003350105;0;0;0;0;0;0
+"Magnetic Storms; Auroral Electrojets; Solar Wind";T.24004;0;0;0;0;0;0;0;0;0;0;0.010763909
+"Pockmark; Gas Seepage; Sidescan Sonar";T.24470;0;0;0.003563438;0;0;0;0;0;0;0;0
+"Ground Motion; Seismic Hazard; Euroseistest";T.24663;0.04331461;0;0;0;0;0;0;0;0;0;0
+"Landslides; Resistivity Imaging; Electrical Resistivity Tomography";T.24900;0;0;0.002496771;0;0;0;0;0;0;0;0
+"Volcanoes; Magma Chamber; Upper Mantle";T.24938;0;0;0.003883438;0;0;0;0;0;0;0;0
+"Garnets; Skarn; Andradite";T.25008;0;0.012984235;0;0;0;0;0;0;0;0;0
+"Ionospherics; Critical Frequencies; Ionosondes";T.25200;0;0;0.049703861;0;0;0;0;0;0;0;0
+"Oxygen-17; Isotope Fractionation; Ozone";T.25236;0;0;0.008079308;0;0;0;0;0;0;0;0
+"Sill; Emplacement; Rock Intrusions";T.25761;0;0;0;0;0;0;0;0;0;0;0.002923438
+"Deglaciation; Postglacial; Weichselian";T.26245;0;0.007311941;0;0;0;0;0;0;0;0;0
+"Ionospherics; DMSP Satellite; Dayglow";T.26711;0.025957424;0;0;0;0;0;0;0;0;0;0.025957424
+"Fracture Network; Outcrops; Anticlines";T.26873;0;0;0;0.004807883;0;0;0;0;0;0;0
+"Lahar; Volcanoes; Debris Avalanche";T.28080;0;0.016726494;0;0;0;0;0;0;0;0;0
+"Polar Cap Absorption; Riometers; Cosmic Noise";T.28750;0;0;0.015678873;0;0;0;0;0;0;0;0
+"Crater Lake; Volcanoes; Hydrothermal Systems";T.29894;0;0;0.003812327;0;0;0;0;0;0;0;0
+"Seismic Refraction; Geophone; Refracted Waves";T.29982;0;0;0;0;0.005127883;0;0;0;0;0;0
+"Boreholes; Resistivity Imaging; Logging";T.31767;0;0;0;0;0;0;0;0;0;0.002958994;0
+"Seismic Hazard; Earthquake Prediction; Scaling Laws";T.32158;0;0;0.013810624;0;0;0;0;0;0;0;0
+"Gujarat Earthquake 2001; Indian Plate; Aftershock";T.32835;0;0.01053746;0;0;0;0;0;0;0;0;0
+"Lamproite; Mantle Source; Subduction (Geology)";T.33222;0;0.010617581;0;0;0;0;0;0;0;0;0
+"Geophone; Seismic Data; Seismographs";T.33536;0;0;0;0;0.014227967;0;0;0;0;0;0
+"Stalagmite; Speleothems; Paris Basin";T.34175;0;0;0.066700672;0;0;0;0;0;0;0;0
+"Mantle Upwelling; Active Fault; Volcanology";T.34412;0;0.03627304;0;0;0;0;0;0;0;0;0
+"Lapse; Seismic; Geophysics";T.35126;0.00594566;0;0;0;0;0;0;0;0;0;0
+"Antarctica; Gneiss; Zircon";T.36309;0;0;0.018430081;0;0;0;0;0;0;0;0
+"Volcanoes; Volcanic Eruptions; Pyroclastic Flow";T.37214;0;0.010509489;0;0;0;0;0;0;0;0;0
+"Earthquake Catalogue; Seismic Activity; Tides";T.37859;0;0;0;0.007510105;0;0;0;0;0;0;0
+"Ferro-Manganese Alloy; Crusts; Manganese Deposits";T.39754;0;0.010923438;0;0;0;0;0;0;0;0;0
+"Serpukhovian; Carboniferous; Visean";T.40365;0;0;0;0;0.007403438;0;0;0;0;0;0
+"Valence; Bond Length; New Mineral";T.43400;0;0;0.01202874;0;0;0;0;0;0;0;0
+"Seismic Moment; Tremors; Rockburst";T.43850;0.009643438;0;0;0;0;0;0;0;0;0;0
+"Slovakia; Potential Evapotranspiration; Hydrologic Data";T.45556;0;0;0.008150105;0;0;0;0;0;0;0;0
+"Massifs; Olivine; Prostaglandin E";T.45612;0;0.017175286;0;0;0;0;0;0;0;0;0
+"Crevasses; Fluvial; Colorado River";T.45857;0;0;0;0;0;0;0;0;0;0.016040986;0
+"Variscite; Fracture Network; Neolithic";T.48895;0;0;0;0.020274549;0;0;0;0;0;0;0
+"Shipwrecks; Wreck; Seismic Survey";T.49395;0.009647544;0;0;0;0;0;0;0;0;0;0
+"Field Survey; Mines; Tools";T.54881;0;0;0.028914549;0;0;0;0;0;0;0;0
+"Carbonate Sediment; Pleistocene; Peneplain";T.55102;0;0.010461216;0;0;0;0;0;0;0;0;0
+"Immiscible Fluids; Lithosphere; Lower Crust";T.55176;0;0.018496771;0;0;0;0;0;0;0;0;0
+"Carboniferous; Devonian; Permian";T.55478;0;0;0;0;0.006123438;0;0;0;0;0;0
+"Transient Heat Conduction; Boundary Element Method; Integral Domain";T.55701;0;0;0.017750105;0;0;0;0;0;0;0;0
+"Ordovician; Terrane; Deeper Water";T.56947;0;0;0;0;0.018496771;0;0;0;0;0;0
+"Gravimeters; Gravity Survey; Lapse";T.57469;0;0.006798994;0;0;0;0;0;0;0;0;0
+"Kuril Islands; Host Rock; Alunite";T.59086;0;0;0;0.01234566;0;0;0;0;0;0;0
+"Seismic; Earth Orbital Rendezvous; Well Spacing";T.59313;0;0;0;0;0;0.007794549;0;0;0;0;0
+"Basin Analysis; Paleocene; Cretaceous";T.61168;0;0;0.041074549;0;0;0;0;0;0;0;0
+"Phenocryst; Olivine; Enstatite";T.65820;0;0;0.024700346;0;0;0;0.024700346;0;0;0;0
+"Sound Transmission; Foams; Actuators";T.67228;0;0;0.074249368;0;0;0;0;0;0;0;0
+"Salvelinus Malma; Glacier Advance; Spawning Ground";T.68331;0;0;0.022196204;0;0;0;0;0;0;0;0
+"Hanford; Wulfenite; New Mineral";T.70624;0;0;0.015794549;0;0;0;0;0;0;0;0
+"Kerogen; Source Rock; Microfacies";T.70799;0;0;0.026958994;0;0;0;0;0;0;0;0
+"Graph Search; Subsalt Imaging; Broadband Data";T.77860;0;0;0;0;0;0;0;0;0.010247883;0;0
+"Ionograms; Ionospherics; Critical Frequencies";T.78295;0;0;0.028776433;0;0;0;0;0;0;0;0
+"Earth Core; Electromagnetic Fields; Thunderstorms";T.85636;0;0;0;0.016398994;0;0;0;0;0;0;0
+"Surface Layers; Organic Matter; Silica Nanoparticles";T.91114;0;0;0.036609718;0;0;0;0;0;0;0;0
+"Ground Penetrating Radar; Washover; Sediment Core";T.93610;0;0;0.031190105;0;0;0;0;0;0;0;0
+"Mountain Range; Ego; Emergency Response";T.93921;0;0;0;0;0;0;0.031936687;0;0;0;0
+"Labour Allocation; Assignment Problem; Virtual";T.94302;0;0.067070793;0;0;0;0;0;0;0;0;0
+"Hospital-Physician Joint Ventures; Bahrain; Compensation Programs";T.95475;0;0;0;0.018707653;0;0;0;0;0;0;0
+"Density Functional; Multiphase; Constitutive Relations";T.98241;0;0;0;0;0;0;0;0;0;0;0.364523438
+;;;;;;;;;;;;
