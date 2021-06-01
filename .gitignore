@@ -1,2 +1,5 @@
 .idea
 ./venv
+./front/.idea
+./front/node_modules
+./front/.gitignore
