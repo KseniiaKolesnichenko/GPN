@@ -1,9 +1,8 @@
 ![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/111.jpeg)
 ![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/logo4.jpg)
 
-# Газпромнефть
 
-## Задача
+# Задача
 Разработать системы аналитики вузов на основе различных источников данных.
 
 ## Описание задачи
