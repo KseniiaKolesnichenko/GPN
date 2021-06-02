@@ -23,7 +23,7 @@
 
 Ноутбук по данному методу хранится в папке model1 (https://github.com/KseniiaKolesnichenko/GPN/tree/main/model1)
 
-## Модель на основе методов машинного обучения.
+## Модель на основе методов машинного обучения
 
 Ноутбук по данному методу хранится в папке model2 (https://github.com/KseniiaKolesnichenko/GPN/tree/main/model2)
 
