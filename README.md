@@ -25,7 +25,7 @@
 
 Ноутбук по данному методу хранится в папке model2 (https://github.com/KseniiaKolesnichenko/GPN/tree/main/model2)
 
-##Обработка данных
+## Обработка данных
 
 Для удобства работы с данными была произведенная предварительная обработка, ноутбуки можно найти в папке preprocessing (https://github.com/KseniiaKolesnichenko/GPN/tree/main/preprocessing).
 
