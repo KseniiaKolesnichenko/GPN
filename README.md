@@ -1,5 +1,5 @@
 ![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/111.jpeg)
-![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/logo4.jpg)
+![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/logo.jpg)
 
 
 # Задача
