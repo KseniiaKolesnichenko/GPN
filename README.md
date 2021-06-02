@@ -1,4 +1,4 @@
-![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/11.jpeg)
+![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/111.jpeg)
 ![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/logo4.jpg)
 
 # Газпромнефть
