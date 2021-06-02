@@ -1,3 +1,5 @@
+![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/11.jpeg)
+
 # Газпромнефть
 
 ## Задача
