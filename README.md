@@ -58,11 +58,11 @@ n- число единиц наблюдения.
 
 В связи с этим мы пришли к выводу о том, что на основании предоставленных данных методы машинного обучения не могут построить статистически значимую модель. Для построения прогнозного значения необходимо использовать другие методы.  
 
-Ноутбук по данному методу хранится в папке model2 (https://github.com/KseniiaKolesnichenko/GPN/tree/main/model2)
+Ноутбук по данному методу хранится в папке [model2](https://github.com/KseniiaKolesnichenko/GPN/tree/main/model2)
 
 ## Обработка данных
 
-Для удобства работы с данными была произведенная предварительная обработка, ноутбуки можно найти в папке preprocessing (https://github.com/KseniiaKolesnichenko/GPN/tree/main/preprocessing).
+Для удобства работы с данными была произведенная предварительная обработка, ноутбуки можно найти в папке [preprocessing](https://github.com/KseniiaKolesnichenko/GPN/tree/main/preprocessing).
 
 ## Описание полей
 
