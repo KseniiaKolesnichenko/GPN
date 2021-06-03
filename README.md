@@ -30,13 +30,13 @@
 Группа решила использовать различные методы машинного обучения в целях предсказания целевой переменной.
 
 В качестве критерия оценки было принято решение использовать MAE (mean absolute error)
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
-MAE=\frac{∑_{i=1}^n |y_{i}-\hat{y}| }{n} ,
+
+![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/mae.jpg) ,
 
 где y_i – фактические значения целевой переменной score,
 y ̂ – прогнозные значения целевой переменной score,
 n- число единиц наблюдения. 
-Существует другая распространённая метрика MSE (mean squared error) MSE=(∑_(i=1)^n▒(y_i-y ̂ )^2 )/n , но предпочтение было отдано MAE , так как значения переменной score лежат в интервале [0,1) и ошибка между фактическими и прогнозными значениями меньше 0. В результате при расчёте MSE при возведении в квадрат MSE будет занижаться (например, при ошибке 0,5 MSE станет равным 0,25, в то время как MAE останется 0,5). 
+Существует другая распространённая метрика MSE (mean squared error) ![alt tag](https://github.com/KseniiaKolesnichenko/GPN/blob/main/mse.jpg), но предпочтение было отдано MAE , так как значения переменной score лежат в интервале [0,1) и ошибка между фактическими и прогнозными значениями меньше 0. В результате при расчёте MSE при возведении в квадрат MSE будет занижаться (например, при ошибке 0,5 MSE станет равным 0,25, в то время как MAE останется 0,5). 
 Группа провела предварительную очистку данных: были удалены столбцы (Title, Authors, Scopus Author Ids, Scopus Source title, Reference, Abstract, DOI, EID, Scopus Affiliation IDs, Scopus Affiliation names, Country/Region, All Science Journal Classification (ASJC) code, All Science Journal Classification (ASJC) field name, Topic Cluster name, Topic Cluster number, Topic name, Topic number, University, Institutions), а столбцы year и Publication type были преобразованы в категориальные переменные (создаётся набор дополнительных переменных, признаков факторов, где придаётся значение 1 существующему типу данных (например, article) и 0 всем остальным возможным значениям. 
 Построена корреляционная матрица. 
  
